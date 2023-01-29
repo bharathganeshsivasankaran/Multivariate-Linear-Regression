@@ -20,6 +20,10 @@ get the output
 
 ## Program:
 ```
+##Developed by:BHARATHGANESH.S
+##REGISTER NUMBER:22001588
+```
+```
 import pandas as pd
 from sklearn import linear_model
 
@@ -46,7 +50,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ### Insert your output
 
-![OUTPUT 10](https://user-images.githubusercontent.com/119478098/215322477-07b41402-5083-4418-b862-c5ca07fdec89.png)
+![outputmulti](https://user-images.githubusercontent.com/119478098/215324562-8c1c49ad-4800-4ac0-8c28-1aae0061d91b.png)
+
 
 
 
